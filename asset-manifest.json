@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Firechat/static/js/main.1ef122a6.js",
+    "main.js": "/Firechat/static/js/main.2f626039.js",
     "index.html": "/Firechat/index.html",
-    "main.1ef122a6.js.map": "/Firechat/static/js/main.1ef122a6.js.map"
+    "main.2f626039.js.map": "/Firechat/static/js/main.2f626039.js.map"
   },
   "entrypoints": [
-    "static/js/main.1ef122a6.js"
+    "static/js/main.2f626039.js"
   ]
 }
